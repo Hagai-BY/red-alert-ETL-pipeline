@@ -31,7 +31,7 @@ This project implements an ETL (Extract, Transform, Load) pipeline for processin
 ### Running the Pipeline
 Run the main script:
 ```
-python red_alert_etl.py
+python red_alert_ETL.ipynb
 ```
 
 ## User Inputs Guide
